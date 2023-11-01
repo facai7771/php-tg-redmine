@@ -70,7 +70,7 @@ Admin::navbar(function (Navbar $navbar) {
 //    <li class="nav-item">
 //        &nbsp;
 //        <a style="cursor: pointer" onclick="window.open('https://github.com/jqhph/dcat-admin-demo')">
-//            <i class="feather icon-github" style="font-size: 1.5rem"></i> DEMO源码下载
+//            <i class="feather icon-github" style="font-size: 1.5rem"></i> 
 //        </a>
 //        &nbsp; &nbsp;
 //    </li>

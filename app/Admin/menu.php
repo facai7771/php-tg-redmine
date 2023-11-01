@@ -5,7 +5,7 @@ return [
 //        'id'        => 'redmine',
 //        'title'     => '红包雷管理',
 //        'icon'      => 'feather icon-package',
-//        'uri'       => '',
+//        'uri'       => '10-0-001-41-001',
 //        'parent_id' => 0,
 //    ],
 //    [

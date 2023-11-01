@@ -6,7 +6,6 @@ use SergiX44\Nutgram\Telegram\Attributes\ParseMode;
 
 /*
 |--------------------------------------------------------------------------
-| 本项目免费开源，有问题联系 [@cody](https://t.me/cody0512) (不常登，请耐心等候)
 |--------------------------------------------------------------------------
 |
 | Here is where you can register telegram handlers for Nutgram. These
