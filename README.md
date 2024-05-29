@@ -22,23 +22,7 @@ laravel 9.19
 ## 后台基于dcat-admin
 
 
-开源免费版演示站点： [https://demo.tgbot.cyou/admin/](https://demo.tgbot.cyou/admin/)
 
-账号：test   密码：test123
-（测试账号请勿随意修改数据）
->演示群：[https://t.me/+GNTD0sZnRJkxYWY1](https://t.me/+GNTD0sZnRJkxYWY1)
-
---------------------------------------------------------------------------------------
-
-高级版演示站点：[https://www.tgbot.cyou/admin](https://www.tgbot.cyou/admin)
-
-账号：test 
-
-密码：（联系->[@cody](https://t.me/cody0512)）
-
-（测试账号请勿随意修改数据）
-
->高级版演示群组：[@hongbaolei123](https://t.me/hongbaolei123)
 
 
 
@@ -71,7 +55,7 @@ laravel 9.19
 3. 输入用户名后， 机器人就申请成功了。 如果你只是要一个可以用的机器人， 到这步就够了。 其中的 bot token: 1287833603:AAGmx9hQq6ViT3km0_77z8psBGqUKfdpSHY 是最重要的部分， 不要让人看到， 否则别人可以控制你的机器人。
 
 
->本项目免费开源，有问题联系 [@cody](https://t.me/cody0512) (不常登，请耐心等候)
+>本项目免费开源，有问题联系
 >
 >开源地址:https://github.com/lintan/php-tg-redmine 
 
